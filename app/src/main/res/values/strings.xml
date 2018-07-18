@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapsDemo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btn_calc_txt">Calculate Distance</string>
+    <string-array name="travel_mode_arr">
+        <item>driving</item>
+        <item>walking</item>
+    </string-array>
+</resources>
